@@ -21,7 +21,7 @@ const AlphabetTile = () => {
     };
     return (
         <div className="bg-gray-800 flex justify-center items-center min-h-screen">
-            <div className="bg-gray-900 flex flex-col justify-center items-center gap-10 text-white  p-10">
+            <div className="bg-gray-900 flex flex-col justify-center items-center gap-10 text-white py-2  px-10">
                 {/* output  */}
                 <div className="flex flex-col justify-start items-start gap-2 w-full">
                     <h1>Output String</h1>
